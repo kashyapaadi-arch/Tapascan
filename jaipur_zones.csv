@@ -1,0 +1,6 @@
+zone,lst,ndvi,risk,population,impervious,heat_stress,cooling_needed,recommendation
+Walled City,48.2,0.143,CRITICAL,87000,94,41.3074,8.200000000000003,Immediate — tree corridors + cool roofs + water body
+Johari Bazaar,46.8,0.12,HIGH,54000,89,41.184,6.799999999999997,Urgent — tree corridors + cool roofs
+Sindhi Camp,44.1,0.161,HIGH,38000,76,36.9999,4.100000000000001,Urgent — tree corridors + cool roofs
+Civil Lines,41.3,0.273,MEDIUM,29000,58,30.0251,1.2999999999999972,Moderate — increase green cover
+Mansarovar,38.7,0.429,LOW,15000,42,22.0977,0.0,Monitor — maintain current vegetation
