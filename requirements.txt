@@ -1,0 +1,14 @@
+earthengine-api
+geemap
+folium
+geopandas
+rasterio
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+streamlit
+plotly
+shap
+xgboost
