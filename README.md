@@ -142,8 +142,8 @@ module1 → module2_numpy → module2_pandas → module2_matplotlib → module3_
 
 - [x] Python + data science foundations (Modules 1–2)
 - [x] Real Landsat 8 LST pipeline via Google Earth Engine (Module 3)
-- [ ] GeoPandas spatial joins + Folium interactive map
-- [ ] XGBoost baseline LST prediction model
+- [x] GeoPandas spatial joins + Folium interactive map
+- [x] XGBoost baseline LST prediction model
 - [ ] PINN implementation with energy balance loss
 - [ ] DBSCAN zone clustering on real pixel data
 - [ ] Scenario simulator engine
