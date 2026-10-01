@@ -144,8 +144,8 @@ module1 → module2_numpy → module2_pandas → module2_matplotlib → module3_
 - [x] Real Landsat 8 LST pipeline via Google Earth Engine (Module 3)
 - [x] GeoPandas spatial joins + Folium interactive map
 - [x] XGBoost baseline LST prediction model
-- [ ] PINN implementation with energy balance loss
-- [ ] DBSCAN zone clustering on real pixel data
+- [x] PINN implementation with energy balance loss
+- [x] DBSCAN zone clustering on real pixel data
 - [ ] Scenario simulator engine
 - [ ] Streamlit dashboard deployment
 - [ ] Multi-city validation (Pune + Guwahati)
