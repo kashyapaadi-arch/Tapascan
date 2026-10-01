@@ -146,8 +146,8 @@ module1 → module2_numpy → module2_pandas → module2_matplotlib → module3_
 - [x] XGBoost baseline LST prediction model
 - [x] PINN implementation with energy balance loss
 - [x] DBSCAN zone clustering on real pixel data
-- [ ] Scenario simulator engine
-- [ ] Streamlit dashboard deployment
+- [x] Scenario simulator engine
+- [x] Streamlit dashboard deployment
 - [ ] Multi-city validation (Pune + Guwahati)
 
 ---
